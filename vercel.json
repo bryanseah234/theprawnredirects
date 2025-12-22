@@ -1,0 +1,69 @@
+{
+  "redirects": [
+    {
+      "source": "/bryanseah234",
+      "destination": "https://hong-yi.me/theprawncollective/bryanseah234",
+      "permanent": true
+    },
+    {
+      "source": "/bryanseah",
+      "destination": "https://hong-yi.me/theprawncollective/bryanseah234",
+      "permanent": true
+    },
+    {
+      "source": "/bryan",
+      "destination": "https://hong-yi.me/theprawncollective/bryanseah234",
+      "permanent": true
+    },
+    {
+      "source": "/bs234",
+      "destination": "https://hong-yi.me/theprawncollective/bryanseah234",
+      "permanent": true
+    },
+    {
+      "source": "/bs",
+      "destination": "https://hong-yi.me/theprawncollective/bryanseah234",
+      "permanent": true
+    },
+    {
+      "source": "/shotsbyseah234",
+      "destination": "https://hong-yi.me/theprawncollective/shotsbyseah234",
+      "permanent": true
+    },
+    {
+      "source": "/shotsbyseah",
+      "destination": "https://hong-yi.me/theprawncollective/shotsbyseah234",
+      "permanent": true
+    },
+    {
+      "source": "/sbs",
+      "destination": "https://hong-yi.me/theprawncollective/shotsbyseah234",
+      "permanent": true
+    },
+    {
+      "source": "/shotbyseah",
+      "destination": "https://hong-yi.me/theprawncollective/shotsbyseah234",
+      "permanent": true
+    },
+    {
+      "source": "/prawnproductions234",
+      "destination": "https://hong-yi.me/theprawncollective/prawnproductions234",
+      "permanent": true
+    },
+    {
+      "source": "/prawnproductions",
+      "destination": "https://hong-yi.me/theprawncollective/prawnproductions234",
+      "permanent": true
+    },
+    {
+      "source": "/prawnproduction",
+      "destination": "https://hong-yi.me/theprawncollective/prawnproductions234",
+      "permanent": true
+    },
+    {
+      "source": "/collective",
+      "destination": "https://hong-yi.me/theprawncollective",
+      "permanent": true
+    }
+  ]
+}
