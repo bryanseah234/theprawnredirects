@@ -41,7 +41,7 @@ theprawnredirects/
 | `/my-two-cents` | `https://hong-yi.me/blog/my-two-cents` |
 | `/video`, `/videos` | `https://hong-yi.me/blog/video-showcase` |
 | `/photos` | `https://hong-yi.me/blog/photo-collection` |
-| `/bryanseah234`, `/bryanseah`, `/bryan`, `/bs234`, `/bs` | `https://hong-yi.me/theprawncollective/bryanseah234` |
+| `/hongyime`, `/bryanseah`, `/bryan`, `/bs234`, `/bs` | `https://hong-yi.me/theprawncollective/hongyime` |
 | `/shotsbyseah234`, `/shotsbyseah`, `/sbs`, `/shotbyseah` | `https://hong-yi.me/theprawncollective/shotsbyseah234` |
 | `/prawnproductions234`, `/prawnproductions`, `/prawnproduction` | `https://hong-yi.me/theprawncollective/prawnproductions234` |
 
